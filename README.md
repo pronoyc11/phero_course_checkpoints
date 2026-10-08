@@ -794,3 +794,7 @@ Then manually verify:
 ## License and privacy note
 
 This project has no server component. Checkpoints are stored locally in the browser through `chrome.storage.local`. The extension is scoped to the configured Programming Hero host and does not need to transmit checkpoint data anywhere.
+
+
+#####THE PROMPT USED TO GENERATE THIS DOC#####
+write a README.md file in the root directory with so detailed technical tutorial that anyone can create this exact project on fully their own next time without any help of others by just studying this tutorial
